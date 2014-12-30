@@ -1,0 +1,7 @@
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\bin\Debug\newGame.dll
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\bin\Debug\newGame.pdb
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\obj\Debug\Game Code.VS2010.csprojResolveAssemblyReference.cache
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\obj\Debug\newGame.dll
+P:\Unity\BotWars\ServerCode\Serverside Code\Game Code\obj\Debug\newGame.pdb
